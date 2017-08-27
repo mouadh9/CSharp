@@ -10,6 +10,7 @@ namespace TestConnectionToGithub
     {
         static void Main(string[] args)
         {
+            // this for testing
             Console.WriteLine("mouadh ben salem");
         }
     }
